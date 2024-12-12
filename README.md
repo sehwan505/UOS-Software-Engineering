@@ -181,7 +181,7 @@ UniCircle는 3-Tier 아키텍처를 적용하여 Presentation Layer(프론트엔
   - Software architecture: <<관련 문서 링크>>  
   - Software Design: <<관련 문서 링크>>  
   - UI Design: <<관련 문서 링크>>  
-- Coding Standard: <<관련 문서 링크>>
+- Coding Standard: [<<관련 문서 링크>>](https://github.com/sehwan505/UOS-Software-Engineering/blob/7eb1c3500d90577c79c821c3959ebedc6f7525eb/artifacts/Development%20Guideline%20-%20Universe-v2.docx)
 
 - **Code**  
   ### Branch 구조 및 역할
