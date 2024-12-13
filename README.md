@@ -176,12 +176,12 @@ UniCircle는 3-Tier 아키텍처를 적용하여 Presentation Layer(프론트엔
 
 ## 🖥️ Project Deliverables  
 
-- 요구사항 분석 명세서 final version: [<<링크>>](https://github.com/sehwan505/UOS-Software-Engineering/blob/96123baf1502fbb0caab9cdaa208b331c9806f73/artifacts/srs-v02.3.docx)  
+- 요구사항 분석 명세서 final version: [<<Version 2.3>>](https://github.com/sehwan505/UOS-Software-Engineering/blob/96123baf1502fbb0caab9cdaa208b331c9806f73/artifacts/srs-v02.3.docx)  
 - Architecture 및 Design Documents  
-  - Software architecture: [<<관련 문서 링크>>](https://github.com/sehwan505/UOS-Software-Engineering/blob/96123baf1502fbb0caab9cdaa208b331c9806f73/artifacts/Design%20Documents/High-level%20Architecture%20-%20V2.docx)  
-  - Software Design: [<<관련 문서 링크>>]  
-  - UI Design: [<<관련 문서 링크>>](https://github.com/sehwan505/UOS-Software-Engineering/blob/96123baf1502fbb0caab9cdaa208b331c9806f73/artifacts/Design%20Documents/UI%20Design%20Document-V4.docx) 
-- Coding Standard: [<<관련 문서 링크>>](https://github.com/sehwan505/UOS-Software-Engineering/blob/7eb1c3500d90577c79c821c3959ebedc6f7525eb/artifacts/Development%20Guideline%20-%20Universe-v2.docx)
+  - Software architecture: [<<Version 2.0>>](https://github.com/sehwan505/UOS-Software-Engineering/blob/96123baf1502fbb0caab9cdaa208b331c9806f73/artifacts/Design%20Documents/High-level%20Architecture%20-%20V2.docx)  
+  - Software Design: [<<Activity 다이어그램>>](https://github.com/sehwan505/UOS-Software-Engineering/blob/1b7251e16b2c9c1887c73ca936dd1b55c73bfede/artifacts/Design%20Documents/ActivityDiagram.uxf) [<<Class 다이어그램>>](https://github.com/sehwan505/UOS-Software-Engineering/blob/1b7251e16b2c9c1887c73ca936dd1b55c73bfede/artifacts/Design%20Documents/ClassDiagram_v2.uxf) [<<Sequence 다이어그램>>](https://github.com/sehwan505/UOS-Software-Engineering/blob/1b7251e16b2c9c1887c73ca936dd1b55c73bfede/artifacts/Design%20Documents/SequenceDiagram.uxf)
+  - UI Design: [<<Version 4>>](https://github.com/sehwan505/UOS-Software-Engineering/blob/96123baf1502fbb0caab9cdaa208b331c9806f73/artifacts/Design%20Documents/UI%20Design%20Document-V4.docx) 
+- Coding Standard: [<<Version 2.0>>](https://github.com/sehwan505/UOS-Software-Engineering/blob/7eb1c3500d90577c79c821c3959ebedc6f7525eb/artifacts/Development%20Guideline%20-%20Universe-v2.docx)
 
 - **Code**  
   ### Branch 구조 및 역할
